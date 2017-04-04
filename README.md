@@ -11,4 +11,4 @@ They will mostly be the source material and primary mark-up for the blog posts m
 Blog posts can be found at:
 https://medium.com/@asmyldof
 
-The contents of this project may be used for free, only for the purposes of education, personal notes or hobby-craft. Any commercial use must be approved in writing prior to use and will likely require stamping with the Asmyldof logo of all imagery.
+The contents of this project may be used for free, only for the purposes of education, personal notes or hobby-craft, requiring only attribution. Any commercial use must be approved in writing prior to use and will likely require stamping with the Asmyldof logo of all imagery. (license coming up once Design 101 series is done).
